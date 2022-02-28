@@ -2,7 +2,7 @@
 
 🇺🇦 How to fight misinformation. Example target: 
 
-<img width="589" alt="image" src="https://user-images.githubusercontent.com/100611091/156039111-10171552-d464-4eb3-8116-3c9af3b6c966.png">
+<img width="591" alt="image" src="https://user-images.githubusercontent.com/100611091/156054257-90b1ace0-7ddc-431f-9165-aebca827c21a.png">
 Let's fight against shit like this.
 
 
